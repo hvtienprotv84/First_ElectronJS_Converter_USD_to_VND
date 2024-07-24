@@ -1,0 +1,28 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "currency converter",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Moses",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.3.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "closure": "^1.0.3",
+    "compiler": "^0.1.2",
+    "google-closure-library": "^20200517.0.0",
+    "jsaction": "0.0.2"
+  }
+}
