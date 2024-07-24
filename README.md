@@ -1,4 +1,4 @@
-# Converter USD to VNĐ - Quy Đổi Tiền Tệ Từ USD sang VNĐ
+# Converter USD to VNĐ - Quy Đổi Tiền Tệ USD sang VNĐ
 - ElectronJS (Desktop App)
 
 # RUN
