@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ytimg.com/vi/c76FTxLRwAw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC7fZQLgb5-6YmCMWqW_V35RsHPpQ"/>
+  <img src="https://miro.medium.com/v2/resize:fit:834/1*4HEwBQUclFxttE13SM0PQg.png"/>
 </div>
 
 # Converter USD to VNĐ - Quy Đổi Tiền Tệ USD sang VNĐ
